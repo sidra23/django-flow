@@ -1,5 +1,5 @@
 runtime: python39
-
+service: default
 env_variables:
   # This setting is used in settings.py to configure your ALLOWED_HOSTS
   # APPENGINE_URL: PROJECT_ID.uc.r.appspot.com
